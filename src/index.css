@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family:'Lato', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue';
+  padding: 0;
+  background: yellowgreen;
+  color: #1e1e1e;
+    
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
+
